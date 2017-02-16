@@ -1,0 +1,5 @@
+add_subdirectory(books)
+add_subdirectory(read_file)
+add_subdirectory(read_string)
+add_subdirectory(visitor)
+add_subdirectory(write_string)

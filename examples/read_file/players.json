@@ -1,0 +1,30 @@
+[
+	{
+		"player_id": 12345,
+		"class": "mage",
+		"level": 10,
+		"name": "Gandalf",
+		"friends": [11333, 11335, 11337],
+		"attributes": {
+			"strength": 10,
+			"agility": 10,
+			"spell_power": 135,
+			"life": 1359.70
+		},
+		"quest": null
+	},
+	{
+		"player_id": 11333,
+		"class": "monk",
+		"level": 15,
+		"name": "Daruma",
+		"friends": [12345],
+		"attributes": {
+			"strength": 15,
+			"agility": 197,
+			"spell_power": 15,
+			"life": 1735.57
+		},
+		"quest": "Journey to the East"
+	}
+]

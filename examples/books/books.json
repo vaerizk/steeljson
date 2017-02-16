@@ -1,0 +1,30 @@
+{ "books": [
+		{
+			"title": "Code Complete: A Practical Handbook of Software Construction",
+			"author": "Steve McConnell",
+			"publisher": "Microsoft Press",
+			"edition": "second",
+			"language": "english",
+			"ISBN-10": "0-7356-1967-0",
+			"pages": 960
+		},
+		{
+			"title": "Design Patterns: Elements of Reusable Object-Oriented Software",
+			"author": "Erich Gamma,Richard Helm,Ralph Johnson,John Vlissides",
+			"publisher": "Addison-Wesley Professional",
+			"edition": "first",
+			"language": "english",
+			"ISBN-10": "0201633612",
+			"pages": 395
+		},
+		{
+			"title": "Head First Design Patterns",
+			"author": "Eric Freeman,Bert Bates,Kathy Sierra,Elisabeth Robson",
+			"publisher": "O'Reilly Media",
+			"edition": "first",
+			"language": "english",
+			"ISBN-10": "0596007124",
+			"pages": 694
+		}
+	]
+}
